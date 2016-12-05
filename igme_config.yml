@@ -1,0 +1,16 @@
+series: Intermediate C++
+title: Function Pointers
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: Use pointers to functions to pass functions as parameters.
+language: C++
+tags:
+  - Core
+extra_resources:
+  - link: http://www.newty.de/fpt/index.html
+    title: Function Pointer Tutorials, a useful reference
+connections:
+  - series: Intermediate C++
+    title: Functors
