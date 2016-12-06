@@ -13,4 +13,4 @@ extra_resources:
     title: Function Pointer Tutorials, a useful reference
 connections:
   - series: Intermediate C++
-    title: Functors
+    title: Operator Overloading

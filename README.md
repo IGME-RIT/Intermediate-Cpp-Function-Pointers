@@ -1,6 +1,6 @@
 # Intermediate C++: Function Pointers
 
-Function pointers are another way to solve the problem that functors solve.
+Function pointers allow you to pass functions as parameters into other functions, or save them to be called later on.
 While fuctors only exist in C++, function pointers exist in C, and are frequently used for callbacks.
 This example covers the basics of declaring/using function pointers and their syntax.
 It also shows usage of function pointers for member functions.
